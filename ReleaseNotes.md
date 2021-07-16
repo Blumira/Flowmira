@@ -1,5 +1,8 @@
 # Release Notes
 
+## 2.1.1
+* Fixed typos
+* Uncommented out sysmon by default
 ## 2.0
 * Now with better formatting!
 * Got rid of all references to unsupported operating system versions. Now works on standard versions of Windows Server 2016 and 2019
